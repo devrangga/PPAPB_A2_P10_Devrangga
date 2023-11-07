@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">testRecyclerView</string>
+    <string name="news_one">Random adalah sebuah konsep yang merujuk pada ketiadaan pola atau urutan yang dapat diprediksi dalam suatu kejadian atau data.</string>
+    <string name="news_two">Keputusan acak adalah keputusan yang diambil tanpa pertimbangan atau rencana yang jelas, seringkali berdasarkan kebetulan.</string>
+    <string name="news_three">Random access memory (RAM) adalah jenis memori komputer yang digunakan untuk menyimpan data sementara yang dapat diakses secara acak.</string>
+    <string name="news_four">Random number generator (RNG) adalah algoritma atau perangkat keras yang digunakan untuk menghasilkan angka-angka acak dalam komputasi.</string>
+    <string name="news_five">Percakapan acak adalah percakapan informal yang tidak memiliki topik atau tujuan yang spesifik.</string>
+    <string name="news_six">Orang seringkali melakukan tindakan random, seperti memilih makanan di menu restoran tanpa pertimbangan sebelumnya.</string>
+    <string name="news_seven">Dalam ilmu statistik, random sampling adalah metode pengambilan sampel acak yang digunakan untuk mewakili populasi secara keseluruhan.</string>
+    <string name="news_eight">Kejadian acak dalam kehidupan sehari-hari, seperti cuaca yang berubah-ubah, dapat mempengaruhi rencana dan aktivitas kita.</string>
+    <string name="news_nine">Pemilihan nomor lotere seringkali bergantung pada angka-angka acak yang dihasilkan, dengan harapan memenangkan hadiah besar.</string>
+    <string name="news_ten">Random walk adalah konsep matematis yang menggambarkan pergerakan acak di mana langkah-langkah selanjutnya tidak dapat diprediksi.</string>
+</resources>
